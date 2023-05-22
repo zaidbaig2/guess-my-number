@@ -1,0 +1,84 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:black;
+}
+.vb{
+    justify-content: space-around;
+}
+button{
+    font-size: 3vw;
+    margin-left: 2vw;
+    margin-top: 2vw;
+}
+.qw{
+    display: flex;
+    justify-content: space-between;
+}
+h3{
+    margin-right: 2vw;
+    margin-top: 2vw;
+    color: white;
+}
+h1{
+    text-align: center;
+    font-size: 4vw;
+    color: white;
+    
+}
+form{
+    margin-left: 3vw;
+}
+.ds{
+    background-color: white;
+    height: 6vw;
+    width: 7vw;
+    margin-left: 45vw;
+    text-align: center;
+    font-size: 5vw;
+    position: absolute;
+    margin-top: -3vw;
+}
+.ddd:hover{
+    background-color: rgb(0, 223, 252);
+    color: rgb(40, 73, 0);
+}
+.ad{
+    background-color: black;
+  color: blue;
+  border: none;
+}
+.ad:hover{
+    background-color: rgb(68, 0, 255);
+}
+.fa input{
+    height: 5vh;
+    margin-left: 6vw;
+    margin-top: 4vw;
+    font-size: 1vw;
+}
+.cz button{
+    margin-left: 9vw;
+    font-size: 2vw;
+}
+.ba{
+    color: white;
+}
+.te{
+    color: white;
+}
+.vb{
+    display: flex;
+    justify-content: space-between;
+}
+.lk{
+    margin-right: 30vw;
+    font-size: 2vw;
+}
+.cc{
+    margin-left: 70vw;
+    
+}
